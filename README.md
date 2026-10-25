@@ -8,4 +8,6 @@ I'm interested in local & open source software, and finding ways to reclaim our 
 
 These days, I'm exploring the future of software at [GitHub Next](https://githubnext.com/). In the past I've designed [Zed](https://zed.dev/), and worked on News Feed & Developer Tools at Facebook.
 
+I keep a list of the [tools](https://github.com/iamnbutler/tools) I've built and use, and a write-up of [how I work](https://github.com/iamnbutler/tools/blob/main/workflow.md) with agents.
+
 Say hi on [Bluesky](https://bsky.app/profile/nate.rip) or come visit @ [nate.rip](https://nate.rip/)!
